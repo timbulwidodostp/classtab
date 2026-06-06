@@ -1,0 +1,6 @@
+D 'classtab': Diagnostic accuracy statistics and classification table Use classtab With STATA 19
+D
+F classtab.ado
+F classtab.sthlp
+F classtabi.ado
+F classtabi.sthlp
