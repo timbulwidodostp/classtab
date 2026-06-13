@@ -1,6 +1,8 @@
 # classtab
 Diagnostic accuracy statistics and classification table Use classtab With STATA 19
 
+https://www.youtube.com/watch?v=E21-ilAmxJw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
